@@ -13,8 +13,6 @@ I'm passionate about machine learning, data analysis, and building intelligent s
 
 ## 📌 Current Projects  
 - 🏡 **Housing Price Prediction**: Applying machine learning models to predict real estate prices.  
-- 📖 **Technical Notes & Documentation**: Creating well-structured LaTeX documents for key concepts.  
-- 💡 **Python Cheat Sheet**: A well-structured guide for Python concepts in GitHub Light-style.  
 
 ## 📊 GitHub Stats  
 <p align="center">
