@@ -1,4 +1,4 @@
-# Hi there, I'm Beshoy! 👋  
+# Hi there, I'm Beshoy! 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&width=435&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;Always+Learning+New+Things!)
 
 ## 🚀 About Me  
