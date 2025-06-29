@@ -9,7 +9,7 @@ I'm passionate about machine learning, data analysis, and building intelligent s
 ## 🔧 Technologies & Tools  
 - **Programming Languages**: Python, SQL  
 - **Machine Learning & Data Science**: Pandas, NumPy, Scikit-Learn, TensorFlow  
-- **Software & Development**: Git, Linux, LaTeX, Jupyter Notebook  
+- **Software & Development**: Git, Jupyter Notebook  
 
 ## 📌 Current Projects  
 - 🏡 **Housing Price Prediction**: Applying machine learning models to predict real estate prices.  
