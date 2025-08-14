@@ -1,20 +1,20 @@
-# Hi there, I'm Beshoy! 
+# Hi , I'm Beshoy! 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&width=435&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;Always+Learning+New+Things!)
 
-## 🚀 About Me  
-📊 Data Science Enthusiast | 💡 Problem Solver  
+## About Me  
+Data Science Enthusiast  
 
 I'm passionate about machine learning, data analysis, and building intelligent systems. I love exploring new technologies, solving challenging problems, and contributing to open-source projects.  
 
-## 🔧 Technologies & Tools  
+## Technologies & Tools  
 - **Programming Languages**: Python, SQL  
-- **Machine Learning & Data Science**: Pandas, NumPy, Scikit-Learn, TensorFlow  
-- **Software & Development**: Git, Jupyter Notebook  
+- **Machine Learning & Data Science**: Pandas, NumPy, Scikit-Learn  
 
-## 📌 Current Projects  
-- 🏡 **Housing Price Prediction**: Applying machine learning models to predict real estate prices.  
+## Current Projects  
+- **Housing Price Prediction**: Applying machine learning models to predict real estate prices.
+- **Salary Classification Analysis**: Applying machine learning models to predict whether a person earns more than $50K/year based on census data.
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BeshoyAbdAlMasih&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>  
