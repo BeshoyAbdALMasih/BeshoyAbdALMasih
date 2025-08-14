@@ -19,12 +19,12 @@ I'm passionate about machine learning, data analysis, and building intelligent s
   <img src="https://github-readme-stats.vercel.app/api?username=BeshoyAbdAlMasih&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>  
 
-## 📚 Learning & Interests  
+## Learning & Interests  
 - Advanced Data Science & AI  
 - Software Development & Automation  
 - Optimization & Mathematical Modeling  
 
-## 📫 Let's Connect!  
+## Let's Connect!  
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beshoy-abd-al-masih-6b01712a5)  
 ✉️ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bosha.abdo.4@gmail.com)  
 
