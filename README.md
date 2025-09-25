@@ -9,9 +9,12 @@ I am passionate about machine learning, data analysis, and building intelligent 
 - **Machine Learning & Data Science**: Pandas, NumPy, Scikit-Learn  
 
 ## Current Projects  
-- **Housing Price Prediction**: Applying machine learning models to predict real estate prices.  
-- **Salary Classification Analysis**: Building models to classify whether an individual earns more than $50K/year based on census data.  
-
+- **itter Sentiment Analysis**: Twitter sentiment analysis project using the Sentiment140 dataset.
+The project vectorizes tweets with TF-IDF and trains classic classifiers to predict tweet sentiment (positive / negative). 
+- **Tabular Data Classification**: This project demonstrates how to build and train machine learning models for tabular data classification,
+It includes data preprocessing, feature engineering, model training, evaluation, and visualization steps. 
+- **Image Classification**: Image classification system utilizing a Convolutional Neural Network (CNN) within the PyTorch framework,
+The primary objective of the project is to classify images based on their content. The model undergoes a rigorous training and validation regimen using a dataset acquired directly from Kaggle.
 ## GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BeshoyAbdAlMasih&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
