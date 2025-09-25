@@ -6,7 +6,7 @@ I am passionate about machine learning, data analysis, and building intelligent 
 
 ## Technologies & Tools  
 - **Programming Languages**: Python, SQL  
-- **Machine Learning & Data Science**: Pandas, NumPy, Scikit-Learn  
+- **Machine Learning & Data Science**: Pandas, NumPy, Scikit-Learn, Pytorch, TensorFlow
 
 ## Current Projects  
 - **itter Sentiment Analysis**: Twitter sentiment analysis project using the Sentiment140 dataset.
