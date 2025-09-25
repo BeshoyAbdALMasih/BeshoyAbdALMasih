@@ -9,7 +9,7 @@ I am passionate about machine learning, data analysis, and building intelligent 
 - **Machine Learning & Data Science**: Pandas, NumPy, Scikit-Learn, Pytorch, TensorFlow
 
 ## Current Projects  
-- **itter Sentiment Analysis**: Twitter sentiment analysis project using the Sentiment140 dataset.
+- **Twitter Sentiment Analysis**: Twitter sentiment analysis project using the Sentiment140 dataset.
 The project vectorizes tweets with TF-IDF and trains classic classifiers to predict tweet sentiment (positive / negative). 
 - **Tabular Data Classification**: This project demonstrates how to build and train machine learning models for tabular data classification,
 It includes data preprocessing, feature engineering, model training, evaluation, and visualization steps. 
