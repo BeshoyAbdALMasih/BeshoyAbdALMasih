@@ -15,11 +15,7 @@ The project vectorizes tweets with TF-IDF and trains classic classifiers to pred
 It includes data preprocessing, feature engineering, model training, evaluation, and visualization steps. 
 - **Image Classification**: Image classification system utilizing a Convolutional Neural Network (CNN) within the PyTorch framework,
 The primary objective of the project is to classify images based on their content. The model undergoes a rigorous training and validation regimen using a dataset acquired directly from Kaggle.
-## GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeshoyAbdAlMasih&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>  
-
+ 
 ## Learning & Interests  
 - Advanced Data Science & AI  
 - Software Development & Automation  
